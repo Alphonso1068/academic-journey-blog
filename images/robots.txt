@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alphonso1068.github.io/academic-journey-blog/sitemap.xml
