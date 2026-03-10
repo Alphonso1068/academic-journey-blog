@@ -1,4 +1,4 @@
-# 📘 Alphonso's Academic Journey Blog
+# 📘 Davis Obure Academic Journey Blog
 
 This is a personal academic journey blog that documents my education from preschool through primary and high school to my fourth year at Masinde Muliro University of Science and Technology (MMUST).
 
